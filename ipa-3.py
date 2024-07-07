@@ -108,7 +108,7 @@ def relationship_status(from_member, to_member, social_graph):
         winner="NO WINNER"
     return winner
 
-    def eta2(first_stop, second_stop, route_map):
+    def eta(first_stop, second_stop, route_map):
     '''ETA.
     25 points.
 
